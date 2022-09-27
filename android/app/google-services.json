@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "973850261754",
+    "firebase_url": "https://demonfluencer-default-rtdb.firebaseio.com",
+    "project_id": "demonfluencer",
+    "storage_bucket": "demonfluencer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973850261754:android:f2e3b6439633498a9ef143",
+        "android_client_info": {
+          "package_name": "com.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973850261754-njjm1l6a4bv47q5dc6bfkgahlq14f9r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAMXXZJXJ0T526fEHoGzjq2jIuFn55LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973850261754-njjm1l6a4bv47q5dc6bfkgahlq14f9r2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973850261754-4l8np7a0ut364b857n6l8405nqmsania.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nfluence.nflue"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973850261754:android:35d589bc809fb7f09ef143",
+        "android_client_info": {
+          "package_name": "com.nfluence.nflue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973850261754-njjm1l6a4bv47q5dc6bfkgahlq14f9r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAMXXZJXJ0T526fEHoGzjq2jIuFn55LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973850261754-njjm1l6a4bv47q5dc6bfkgahlq14f9r2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973850261754-4l8np7a0ut364b857n6l8405nqmsania.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nfluence.nflue"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973850261754:android:e49b0578b47b3d599ef143",
+        "android_client_info": {
+          "package_name": "com.nfluence.nfluencerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973850261754-njjm1l6a4bv47q5dc6bfkgahlq14f9r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAMXXZJXJ0T526fEHoGzjq2jIuFn55LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973850261754-njjm1l6a4bv47q5dc6bfkgahlq14f9r2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "973850261754-4l8np7a0ut364b857n6l8405nqmsania.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nfluence.nflue"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
